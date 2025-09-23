@@ -18,4 +18,4 @@ Foto Tugas 1
 
 Foto Tugas 2
 
-![ezgif-6059e1902f60cf](https://github.com/user-attachments/assets/07118401-4f4b-4d25-9914-56cb6d622f9b)
+![Demo](Simon/Kuliah/Praktikum Pemrograman Mobile/gif1.gif)
