@@ -18,4 +18,4 @@ Foto Tugas 1
 
 Foto Tugas 2
 
-![Demo](Simon/Kuliah/Praktikum Pemrograman Mobile/gif1.gif)
+![gif1](https://github.com/user-attachments/assets/2883c742-3b59-427f-9d9b-628430fcae53)
