@@ -6,8 +6,16 @@ Shift Awal  : G
 
 Shift Akhir : D
 
+---
+
 Foto Tugas 1
 
 <img width="302" height="683" alt="Image" src="https://github.com/user-attachments/assets/59398627-af3d-4c11-93ef-82bec19c8d6c" />
 
 <img width="322" height="699" alt="Image" src="https://github.com/user-attachments/assets/2ca41b8e-699d-486f-acff-c0fa2c55e97e" />
+
+---
+
+Foto Tugas 2
+
+![ezgif-6059e1902f60cf](https://github.com/user-attachments/assets/07118401-4f4b-4d25-9914-56cb6d622f9b)
