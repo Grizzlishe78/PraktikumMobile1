@@ -16,6 +16,12 @@ Foto Tugas 1
 
 ---
 
-Foto Tugas 2
+Tugas 2
 
 ![Demo](app/docs/videos/gif1.gif)
+
+---
+
+Tugas 3
+
+![Demo](app/docs/videos/gif2.gif)
